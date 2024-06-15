@@ -1,0 +1,3 @@
+Schema -  Define he structure
+    Schema - Model
+    Using model we can do CRUD operations 
